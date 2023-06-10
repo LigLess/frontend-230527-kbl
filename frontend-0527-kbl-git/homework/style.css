@@ -1,0 +1,47 @@
+body {
+  background-color: #F0F0F0;
+}
+
+header {
+  text-align: center;
+  color: blue;
+}
+
+nav {
+  background-color: #BCDAB4;
+}
+
+table {
+  text-align: left;
+}
+
+.text {
+  width: 1900px;
+  height: 28px;
+}
+
+.password {
+  width: 1900px;
+  height: 28px;
+}
+
+.Email {
+  width: 1900px;
+  height: 28px;
+}
+
+textarea {
+  width: 1900px;
+  height: 50px;
+}
+
+.check {
+  vertical-align: middle;
+}
+
+.finish {
+  width: 1900px;
+  height: 35px;
+
+  font-size: larger;
+}
