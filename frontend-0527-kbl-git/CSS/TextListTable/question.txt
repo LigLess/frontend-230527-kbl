@@ -1,0 +1,8 @@
+표와 셀에 테두리를 그린 후
+한줄로 합쳐 표시하세요
+
+표의 설명 글(caption) 아래쪽에 표시하세요
+
+각 셀에는  paddiong:10px 여백을 두세요
+
+배경색상 background-color: #eee
